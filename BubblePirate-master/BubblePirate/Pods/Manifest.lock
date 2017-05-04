@@ -1,0 +1,22 @@
+PODS:
+  - PhysicEngine (0.0.1)
+
+DEPENDENCIES:
+  - PhysicEngine (from `https://limtaeu@bitbucket.org/cs3217/2017-ps5-a0126356e.git`, branch `pod`)
+
+EXTERNAL SOURCES:
+  PhysicEngine:
+    :branch: pod
+    :git: https://limtaeu@bitbucket.org/cs3217/2017-ps5-a0126356e.git
+
+CHECKOUT OPTIONS:
+  PhysicEngine:
+    :commit: 45f8c29ad42445e1ec29e23dbae62778454b1384
+    :git: https://limtaeu@bitbucket.org/cs3217/2017-ps5-a0126356e.git
+
+SPEC CHECKSUMS:
+  PhysicEngine: e125271febd607d3f43fdafd7d4b34c0217dea43
+
+PODFILE CHECKSUM: dfa46f9456595bd2af775df8e086fae8bbdcf61f
+
+COCOAPODS: 1.2.0.rc.1
